@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtest_pkg.a  CMakeFiles/test_pkg.dir/src/pub2.cpp.o
+/usr/bin/ranlib libtest_pkg.a

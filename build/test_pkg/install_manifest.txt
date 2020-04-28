@@ -1,0 +1,16 @@
+/home/anurag/test_ws/install/test_pkg/share/test_pkg/environment/library_path.sh
+/home/anurag/test_ws/install/test_pkg/share/ament_index/resource_index/package_run_dependencies/test_pkg
+/home/anurag/test_ws/install/test_pkg/share/ament_index/resource_index/parent_prefix_path/test_pkg
+/home/anurag/test_ws/install/test_pkg/share/test_pkg/environment/ament_prefix_path.sh
+/home/anurag/test_ws/install/test_pkg/share/test_pkg/environment/path.sh
+/home/anurag/test_ws/install/test_pkg/share/test_pkg/local_setup.bash
+/home/anurag/test_ws/install/test_pkg/share/test_pkg/local_setup.sh
+/home/anurag/test_ws/install/test_pkg/share/test_pkg/local_setup.zsh
+/home/anurag/test_ws/install/test_pkg/share/ament_index/resource_index/packages/test_pkg
+/home/anurag/test_ws/install/test_pkg/share/test_pkg/cmake/ament_cmake_export_dependencies-extras.cmake
+/home/anurag/test_ws/install/test_pkg/share/test_pkg/cmake/ament_cmake_export_include_directories-extras.cmake
+/home/anurag/test_ws/install/test_pkg/share/test_pkg/cmake/ament_cmake_export_libraries-extras.cmake
+/home/anurag/test_ws/install/test_pkg/share/test_pkg/cmake/test_pkgConfig.cmake
+/home/anurag/test_ws/install/test_pkg/share/test_pkg/cmake/test_pkgConfig-version.cmake
+/home/anurag/test_ws/install/test_pkg/share/test_pkg/package.xml
+/home/anurag/test_ws/install/test_pkg/lib/test_pkg/publisher_member_function.py
